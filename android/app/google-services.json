@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487522220762",
+    "project_id": "agropro2024",
+    "storage_bucket": "agropro2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487522220762:android:c344e0ee42bf61344543e3",
+        "android_client_info": {
+          "package_name": "com.example.fluterprojet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIpXLaYGO7Nx34YZUGY75tR6uUAwzfkkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
